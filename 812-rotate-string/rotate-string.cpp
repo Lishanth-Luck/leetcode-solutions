@@ -1,3 +1,4 @@
+//Author:Lishanth-Luck
 class Solution {
 public:
     bool rotateString(string s, string goal) {
