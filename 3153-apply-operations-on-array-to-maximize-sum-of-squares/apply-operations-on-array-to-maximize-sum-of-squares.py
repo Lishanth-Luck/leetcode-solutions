@@ -25,3 +25,4 @@ class Solution(object):
             ans = (ans + x * x) % MOD
             
         return ans
+//Author:Lishanth
