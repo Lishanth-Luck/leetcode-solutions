@@ -8,3 +8,4 @@ class Solution(object):
                 s.add(nums[j])
                 ans+=len(s)*len(s)
         return ans
+//Lishanth
